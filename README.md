@@ -1,6 +1,6 @@
 # ADT7470 Library
 
-Arduino library for I2C ADT7470 Fan Monitoring
+Arduino library for I2C [ADT7470](https://www.analog.com/media/en/technical-documentation/data-sheets/ADT7470.pdf) Fan Monitoring
 
 ## Description
 
